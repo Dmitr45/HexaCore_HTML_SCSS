@@ -1,0 +1,18 @@
+/* Plex */
+@font-face {
+  font-family: "Plex";
+  font-style: Bold;
+  src: url("../fonts/ibmplexmono/IBMPlexMono-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Plex400";
+  font-style: Regular;
+  font-weight: 400;
+  src: url("../fonts/ibmplexmono/IBMPlexMono-Regular.ttf") format("truetype");
+}
+/* Neue */
+@font-face {
+  font-family: "Naue";
+  font-style: Light;
+  src: url("../fonts/NeueMachina/PPNeueMachina-Light.otf") format("opentype");
+}
